@@ -1,4 +1,4 @@
-# My FIrst Nodejs Express server
+# My First Nodejs Express server
 Hier komt een korte introductie.
 
 ## Installing
